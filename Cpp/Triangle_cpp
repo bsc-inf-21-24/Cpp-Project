@@ -1,0 +1,7 @@
+#include "Triangle_.h"
+
+int Triangle::Area()
+{
+    return  mWidth * mHeight/2;
+
+}
